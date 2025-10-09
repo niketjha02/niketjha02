@@ -8,10 +8,11 @@
 ---
 
 ## 🔧 Tech Stack  
-- **Languages:** Python, SQL  
+- **Languages:** Python, C, SQL  
 - **Databases:** MySQL, SQLite  
 - **Visualization:** Power BI, Excel, Tableau  
-- **Frameworks & Tools:** Streamlit, FastAPI, Git, PyCharm  
+- **Frameworks & Tools:** Git, GitHub, Streamlit, FastAPI
+- **Platforms:** Jupyter Notebook, PyCharm, Visual Studio  
 
 ---
 
@@ -24,9 +25,9 @@
 ## 📖 Currently Learning  
 - 📊 Advanced SQL for Analytics  
 - 📉 Power BI storytelling & DAX functions
-- 📉 AI Tools for optimizing works 
-- 🤖 Machine Learning fundamentals  
 - 🖼️ Tableau for interactive dashboards  
+- 📉 AI Tools for optimizing works 
+- 🤖 Data Engineering fundamentals  
 
 ---
 
