@@ -40,6 +40,7 @@
 
 ### 🗄️ Databases
 - MySQL
+- SQL Server (SSMS)
 - SQLite
 
 ### 🤖 AI & GenAI
