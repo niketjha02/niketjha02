@@ -23,11 +23,33 @@
 ---
 
 ## 📖 Currently Learning  
-- 📊 Advanced SQL for Analytics  
-- 📉 Power BI storytelling & DAX functions
-- 🖼️ Tableau for interactive dashboards  
-- 📉 AI Tools for optimizing works 
-- 🤖 Data Engineering fundamentals  
+
+### Microsoft Data Stack
+- Microsoft Fabric
+- Azure Data Factory (ADF)
+- Azure Data Lake Storage Gen2 (ADLS Gen2)
+- Azure Synapse Analytics
+- Azure SQL Database
+- Azure DevOps
+- Power BI Service
+- OneLake
+
+### Data Engineering
+- dbt
+- Snowflake
+- Databricks
+- Apache Spark (PySpark)
+
+### AI & GenAI
+- Azure AI Foundry
+- Azure OpenAI Service
+- GitHub Copilot
+- Microsoft Copilot
+- LangChain
+- Semantic Kernel
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- MCP (Model Context Protocol)
 
 ---
 
