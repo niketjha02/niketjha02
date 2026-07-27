@@ -1,24 +1,70 @@
-# Hi, I'm Niket Jha  
-**Aspiring Data Analyst | Excel, Python, Power BI, Tableau, SQL | Transitioning from Infrastructure Projects to Data-Driven Decision-Making | Turning Raw Data into Decision-Driven Insights**  
+# Hi, I'm Niket Jha 👋
 
-🚀 Passionate about **Data Analytics | Python | SQL | Power BI | Tableau**  
-🔭 Transitioning from **Infrastructure Project Execution** to **Data Analytics**  
-📊 Love turning raw data into meaningful insights and business solutions  
+**Data Engineer @ Navoti Analytics | M.Tech (AI & Data Science Engineering), IIT Patna | Building Scalable Data Solutions with the Microsoft Data Stack**
 
----
-
-## 🔧 Tech Stack  
-- **Languages:** Python, C, SQL  
-- **Databases:** MySQL, SQLite  
-- **Visualization:** Power BI, Excel, Tableau  
-- **Frameworks & Tools:** Git, GitHub, Streamlit, FastAPI
-- **Platforms:** Jupyter Notebook, PyCharm, Visual Studio  
+🚀 Passionate about **Data Engineering, Cloud Technologies & AI**
+🔭 Currently learning **Microsoft Fabric, Snowflake, dbt, Databricks, Azure Data Factory, Azure AI Foundry & Azure OpenAI**
+📊 Building ETL/ELT pipelines, modern data platforms, and business intelligence solutions
+🌱 Continuously exploring cloud-native data engineering and AI-powered applications
 
 ---
 
-## 📌 Projects  
-- 💰 **Expense Management System** → Full-stack app using **Python, Streamlit, FastAPI, MySQL**  
-- 📈 **Data Analytics Case Studies** → SQL, Excel & Power BI dashboards with insights    
+## 🔧 Tech Stack
+
+### 👨‍💻 Languages
+- Python
+- SQL
+- C
+
+### ☁️ Data Engineering
+- Microsoft Fabric
+- Snowflake
+- dbt
+- Databricks
+- PySpark
+- ETL/ELT
+- Data Modeling
+
+### ☁️ Microsoft Azure
+- Azure Data Factory
+- Azure SQL Database
+- Azure Data Lake Storage Gen2
+- Azure Synapse Analytics
+- Azure DevOps
+
+### 📊 Analytics & BI
+- Power BI
+- DAX
+- Power Query
+- Microsoft Excel
+
+### 🗄️ Databases
+- MySQL
+- SQLite
+
+### 🤖 AI & GenAI
+- Azure AI Foundry
+- Azure OpenAI
+- GitHub Copilot
+- Microsoft Copilot
+- LangChain
+
+### 🛠️ Tools
+- Git
+- GitHub
+- Visual Studio Code
+- Jupyter Notebook
+- Streamlit
+- FastAPI
+
+---
+
+## 📌 Projects
+
+- 📊 **Sales Analysis Dashboard** → Interactive Power BI dashboard with Corporate, Online, and Retail insights using Power BI, DAX, and Power Query.
+- 💰 **Expense Management System** → Full-stack expense tracking application built with Python, Streamlit, FastAPI, and MySQL.
+- 📈 **Business Analytics Projects** → End-to-end analytics projects across finance, sales, hospitality, and retail using SQL, Excel, and Power BI.
+- ⚙️ **Data Engineering Projects** → ETL/ELT pipelines, data modelling, and warehouse projects using Snowflake, dbt, Microsoft Fabric, and Databricks *(Currently Building)*. 
 
 ---
 
