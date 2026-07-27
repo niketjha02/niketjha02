@@ -2,10 +2,10 @@
 
 **Data Engineer @ Navoti Analytics | M.Tech (AI & Data Science Engineering), IIT Patna | Building Scalable Data Solutions with the Microsoft Data Stack**
 
-Passionate about: **Data Engineering, Cloud Technologies & AI**
-Currently learning: **Microsoft Fabric, Snowflake, dbt, Databricks, Azure Data Factory, Azure AI Foundry & Azure OpenAI**
-Building: ETL/ELT pipelines, modern data platforms, and business intelligence solutions
-Continuously exploring: Cloud-native data engineering and AI-powered applications
+- Passionate about Data Engineering, Cloud Technologies, and AI.
+- Currently learning Microsoft Fabric, Snowflake, dbt, Databricks, Azure Data Factory, Azure AI Foundry, and Azure OpenAI.
+- Building ETL/ELT pipelines, modern data platforms, and business intelligence solutions.
+- Continuously exploring cloud-native data engineering, AI-powered applications, and modern data architectures.
 
 ---
 
